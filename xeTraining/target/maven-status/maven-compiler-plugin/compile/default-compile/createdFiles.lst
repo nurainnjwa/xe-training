@@ -1,0 +1,5 @@
+com\example\xeTraining\XeTrainingApplication.class
+com\example\xeTraining\entity\User.class
+com\example\xeTraining\controller\DemoController.class
+com\example\xeTraining\repository\UserRepository.class
+com\example\xeTraining\Test.class
