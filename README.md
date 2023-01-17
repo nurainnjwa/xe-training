@@ -11,15 +11,14 @@ Create Tables below in your local DB:
 - Magic Wand Catalogue – id, name, desc, age limit, stock​
 - Order - consist of foreign keys, able to show existing order from which Wizard Info
 
-Add CRUD features for all microservice​
+Create new branch from master, name it as training-crud-api
+*Add CRUD features for all microservice​
+*Add RestTemplate feature in Order service to communicate with other services​
+*Add validation if wizard is valid (active/not)​
+*Add validation if magic wand is valid & is available​
 
-Add RestTemplate feature in Order service to communicate with other services​
-
-Add validation if wizard is valid (active/not)​
-
-Add validation if magic wand is valid & is available​
-
-You are free to dd other required additional validation
+**You are free to dd other required additional validation**
 
 Bonus:
-Explore simple token authentication and apply it in one micorservice during API call
+Create new branch from master, name it as training-authentication
+Explore simple token authentication (sign in, sign up, login) and apply it in any microservice during API call
